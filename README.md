@@ -11,11 +11,12 @@ Open letter: https://github.com/drop-ice/dear-github-2.0
 ![Under Construction](https://github.com/albab/albab/blob/master/img/gifs/construction.gif?raw=true)
 
 
-<img align="left" alt="Black Lives Matter" src="https://github.com/albab/albab/blob/master/img/userbar/blm.png?raw=true">
-<img align="left" alt="r00t" src="https://github.com/albab/albab/blob/master/img/userbar/hacker.gif?raw=true">
-<img align="left" alt="Magic The Gathering" src="https://github.com/albab/albab/blob/master/img/userbar/userbar.jpg?raw=true">
-<img align="left" alt="Music Listener" src="https://github.com/albab/albab/blob/master/img/userbar/musiclistener.gif?raw=true">
-<img align="left" alt="There Is No Spoon" src="https://github.com/albab/albab/blob/master/img/userbar/thereisnospoon.gif?raw=true">
+<img align="left" alt="Black Lives Matter" src="https://github.com/albab/albab/blob/master/img/userbar/blm.png?raw=true" width="100%">
+<img align="left" alt="r00t" src="https://github.com/albab/albab/blob/master/img/userbar/hacker.gif?raw=true" width="100%">
+<img align="left" alt="Magic The Gathering" src="https://github.com/albab/albab/blob/master/img/userbar/userbar.jpg?raw=true" width="100%">
+<img align="left" alt="Music Listener" src="https://github.com/albab/albab/blob/master/img/userbar/musiclistener.gif?raw=true" width="100%">
+<img align="left" alt="There Is No Spoon" src="https://github.com/albab/albab/blob/master/img/userbar/thereisnospoon.gif?raw=true" width="100%">
+
 
 
 
