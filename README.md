@@ -15,7 +15,6 @@ Open letter: https://github.com/drop-ice/dear-github-2.0
 <img align="left" alt="r00t" src="https://github.com/albab/albab/blob/master/img/userbar/hacker.gif?raw=true" width="90%">
 <img align="left" alt="Magic The Gathering" src="https://github.com/albab/albab/blob/master/img/userbar/userbar.jpg?raw=true" width="90%">
 <img align="left" alt="Music Listener" src="https://github.com/albab/albab/blob/master/img/userbar/musiclistener.gif?raw=true" width="90%">
-<img align="left" alt="There Is No Spoon" src="https://github.com/albab/albab/blob/master/img/userbar/thereisnospoon.gif?raw=true" width="90%">
 
 
 
