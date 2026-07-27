@@ -3,11 +3,53 @@
 ![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)
 
 
-<img src="https://github.com/albab/albab/blob/master/img/stamps/begone.gif?raw=true" alt="Begone Terf" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/blm.png?raw=true" alt="Black Lives Matter" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/antiai.jpg?raw=true" alt="AI" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/angel.png?raw=true" alt="Am I An Angel" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/internetaddict.jpg?raw=true" alt="Internet Addict" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/frenchies.png?raw=true" alt="I Love French Bulldogs" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/whatever.gif?raw=true" alt="Whatever" width="99" height="56"><br/>
-<img src="https://github.com/albab/albab/blob/master/img/stamps/stophating.png?raw=true" alt="Stop Hating" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/tacobell.gif?raw=true" alt="Taco Bell" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/unsure.png?raw=true" alt="Unsure" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/raverdimension.gif?raw=true" alt="I Live in The Raver Dimension" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/artsucks.png?raw=true" alt="Art Sucks !!" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/alfredo.png?raw=true" alt="Pasta" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/wifihunter.gif?raw=true" alt="Wifi Hunter" width="99" height="56"><br/>
-<img src="https://github.com/albab/albab/blob/master/img/stamps/cringe.png?raw=true" alt="I Do Not Condone Cringe Compilations" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/ice.png?raw=true" alt="Ice" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/blocked.png?raw=true" alt="Blocked" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/coder.png?raw=true" alt="Coder" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/pastanotwar.gif?raw=true" alt="Pasta Not War" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/puppies.gif?raw=true" alt="Puppies" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/kirby.png?raw=true" alt="Kirby" width="99" height="56"><br/>
-<img src="https://github.com/albab/albab/blob/master/img/stamps/error.gif?raw=true" alt="Error" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/mexicanfood.gif?raw=true" alt="I Love Mexican Food" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/programming.png?raw=true" alt="Programming" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/pepsi.gif?raw=true" alt="Pepsi" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/smileys.gif?raw=true" alt="I Love Smileys" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/pizzalover.jpg?raw=true" alt="Pizza Lover" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/ihack.gif?raw=true" alt="I Hack" width="99" height="56"><br/>
-<img src="https://github.com/albab/albab/blob/master/img/stamps/opensource.gif?raw=true" alt="Open Source" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/badartblogs.png?raw=true" alt="Bad Art Blogs" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/antifurries.gif?raw=true" alt="Anti-furries" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/bread.png?raw=true" alt="I love bread" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/free-palestine.png?raw=true" alt="Free Palestine" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/fictionalstuff.png?raw=true" alt="Fictional Stuff" width="99" height="56"><img src="https://github.com/albab/albab/blob/master/img/stamps/internetisdead.jpg?raw=true" alt="The Internet is dead" width="99" height="56">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/begone.gif?raw=true" alt="Begone Terf" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/blm.png?raw=true" alt="Black Lives Matter" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/antiai.jpg?raw=true" alt="AI" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/angel.png?raw=true" alt="Am I An Angel" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/internetaddict.jpg?raw=true" alt="Internet Addict" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/frenchies.png?raw=true" alt="I Love French Bulldogs" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/whatever.gif?raw=true" alt="Whatever" width="99"></td>
+</tr>
+<tr>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/stophating.png?raw=true" alt="Stop Hating" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/tacobell.gif?raw=true" alt="Taco Bell" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/unsure.png?raw=true" alt="Unsure" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/raverdimension.gif?raw=true" alt="I Live in The Raver Dimension" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/artsucks.png?raw=true" alt="Art Sucks !!" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/alfredo.png?raw=true" alt="Pasta" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/wifihunter.gif?raw=true" alt="Wifi Hunter" width="99"></td>
+</tr>
+<tr>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/cringe.png?raw=true" alt="I Do Not Condone Cringe Compilations" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/ice.png?raw=true" alt="Ice" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/blocked.png?raw=true" alt="Blocked" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/coder.png?raw=true" alt="Coder" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/pastanotwar.gif?raw=true" alt="Pasta Not War" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/puppies.gif?raw=true" alt="Puppies" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/kirby.png?raw=true" alt="Kirby" width="99"></td>
+</tr>
+<tr>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/error.gif?raw=true" alt="Error" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/mexicanfood.gif?raw=true" alt="I Love Mexican Food" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/programming.png?raw=true" alt="Programming" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/pepsi.gif?raw=true" alt="Pepsi" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/smileys.gif?raw=true" alt="I Love Smileys" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/pizzalover.jpg?raw=true" alt="Pizza Lover" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/ihack.gif?raw=true" alt="I Hack" width="99"></td>
+</tr>
+<tr>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/opensource.gif?raw=true" alt="Open Source" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/badartblogs.png?raw=true" alt="Bad Art Blogs" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/antifurries.gif?raw=true" alt="Anti-furries" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/bread.png?raw=true" alt="I love bread" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/free-palestine.png?raw=true" alt="Free Palestine" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/fictionalstuff.png?raw=true" alt="Fictional Stuff" width="99"></td>
+<td width="99"><img src="https://github.com/albab/albab/blob/master/img/stamps/internetisdead.jpg?raw=true" alt="The Internet is dead" width="99"></td>
+</tr>
+</table>
 
 
 ![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)![Stars](https://github.com/albab/albab/blob/master/img/gifs/bouncystars.gif?raw=true)
